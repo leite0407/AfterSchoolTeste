@@ -27,13 +27,8 @@ Podes correr o teu código escrevendo na consola (caixa preta por baixo do códi
 
 Podes correr o comando abaixo para confirmar que o teu código faz o que é suposto:
 
-`check50 [TODO]`
+`check50 leite0407/AfterSchoolTesteChecks/master/semana1/ex1`
 
-Para submeter, corre o comando abaixo. Atenção que vão te perguntar qual o teu username e password do github:
-
-`submit50 [TODO]`
-
-{% next "Próximo Exercício" %}
 
 ## Exercício 2
 
@@ -41,6 +36,6 @@ No ficheiro `ex2.py` (tens de mudar de tab, olha para o topo do editor ao lado),
 
 Mais uma vez, para verificar o teu código, podes corrê-lo, usando `python ex2.py`.
 
-Podes confirmar que está correto usando: `check50 [TODO]`
+Podes confirmar que está correto usando: `check50 leite0407/AfterSchoolTesteChecks/master/semana1/ex1`
 
-Podes submeter com: `submit50 [TODO]`
+Agora, podes submeter tudo com: `submit50 leite0407/AfterSchoolTesteChecks/master/semana1`
