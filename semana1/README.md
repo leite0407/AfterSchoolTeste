@@ -1,6 +1,10 @@
 ## Como é que isto funciona?
 
-Estas instruções foram escritas com markup. Para além de todas as funcionalidades do markup, ainda tem mais algumas coisas:
+Isto está alojado neste repo: github.com/leite0407/AfterSchoolTeste. 
+
+Podem ver [aqui](https://cs50.readthedocs.io/lab/) um tutorial de como criar coisas deste género, é mesmo bastante simples.
+
+Estas instruções foram escritas em markup. Para além de todas as funcionalidades do markup, ainda tem mais algumas coisas:
 
 ### Spoiler tags
 
