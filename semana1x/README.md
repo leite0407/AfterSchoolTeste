@@ -42,8 +42,4 @@ Mais uma vez, para verificar o teu código, podes corrê-lo, usando `python ex2.
 
 Podes confirmar que está correto usando: `check50 leite0407/AfterSchoolTesteChecks/master/semana1/ex1`
 
-<<<<<<< HEAD
 Agora, podes submeter tudo com: `submit50 leite0407/AfterSchoolTesteChecks/master/semana1`
-=======
-Podes submeter com: `submit50 [TODO]`
->>>>>>> 094156de2f8bebc50223f786bc4e2086d8551671
