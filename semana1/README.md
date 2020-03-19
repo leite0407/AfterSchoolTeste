@@ -33,6 +33,7 @@ Podes correr o comando abaixo para confirmar que o teu código faz o que é supo
 
 `check50 leite0407/AfterSchoolTesteChecks/master/semana1/ex1`
 
+{% next "Próximo Exercício"}
 
 ## Exercício 2
 
